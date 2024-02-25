@@ -10,7 +10,7 @@
   "author": "",
   "repository": {
   "type": "git",
-    "url": "git@github.com:jianglijie/npm-test.git"
+    "url": "git+https://github.com/jianglijie/npm-test"
   },
   "license": "ISC"
 }

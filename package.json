@@ -9,8 +9,11 @@
   "keywords": [],
   "author": "",
   "repository": {
-  "type": "git",
+    "type": "git",
     "url": "git+https://github.com/jianglijie/npm-test"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
 }
